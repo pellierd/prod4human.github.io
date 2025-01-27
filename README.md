@@ -1,6 +1,6 @@
 # Projet ANR - [Nom du Projet]
 
-![Logo ANR](logos/anr-logo.jpg) ![Logo LIG](logos/lig-logo.png) ![Logo CNAM](logos/cnam-logo.png)
+![Logo ANR](logo/anr-logo.jpg) ![Logo LIG](logo/lig-logo.png) ![Logo CNAM](logo/cnam-logo.png)
 
 ## Description
 
