@@ -2,6 +2,6 @@
 
 ![Logo ANR](https://pellierd.github.io/prod4human.github.io/logo/anr_logo.jpg) 
 ![Logo LIG](https://pellierd.github.io/prod4human.github.io/logo/lig_logo.png) 
-![Logo CNAM](https://github.com/pellierd/prod4human.github.io/logo/cnam_logo.png)
+![Logo CNAM](https://pellierd.github.io/prod4human.github.io/logo/cnam_logo.png)
 
 ## Description
