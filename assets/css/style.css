@@ -1,1 +1,4 @@
-
+.small-img {
+  width: 200px;
+  height: auto; /* Conserve le ratio */
+}
